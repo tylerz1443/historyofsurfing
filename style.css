@@ -1,0 +1,20 @@
+body {
+  background-image: url(https://www.gohawaii.com/sites/default/files/styles/listing_teaser/public/mmg_lfef_images/maui-surfer-girls-78670-df01ddf4e5f2d823ec3e20672a578455.jpg?itok=8v0kD0i4);
+  background-size: cover;
+
+  text-align: center;
+  color: white;
+  font-family: 'Bitter', 'sans-serif';
+}
+
+p {
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 27px;
+}
+
+img {
+  width: 200px;
+}
